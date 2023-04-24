@@ -1,0 +1,7 @@
+# download files for lupus dataset
+
+1. download the following file from the link https://ucsf.app.box.com/s/tds2gotok3lyeanlrt13prj40am5w720
+- CLUESImmVar_nonorm.V6.h5ad
+
+2. move it to ./h5ad/
+- mv CLUESImmVar_nonorm.V6.h5ad ./h5ad/

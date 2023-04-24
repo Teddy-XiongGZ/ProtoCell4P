@@ -1,0 +1,9 @@
+# download files for covid dataset
+
+1. download the following files from https://singlecell.broadinstitute.org/single_cell/study/SCP1289/
+- 20210220_NasalSwab_RawCounts.txt
+- 20210701_NasalSwab_MetaData.txt
+- 20210220_NasalSwab_UMAP.txt
+
+2. analyze 20210220_NasalSwab_RawCounts.txt and extract RawCounts.npz / barcodes.txt / genes.txt from it
+- python save.py

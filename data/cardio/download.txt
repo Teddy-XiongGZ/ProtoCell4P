@@ -1,0 +1,10 @@
+# download files for cardio dataset
+
+1. download the following files from https://singlecell.broadinstitute.org/single_cell/study/SCP1303/
+- DCM_HCM_Expression_Matrix_raw_counts_V1.mtx
+- DCM_HCM_Expression_Matrix_genes_V1.tsv
+- DCM_HCM_Expression_Matrix_barcodes_V1.tsv
+- DCM_HCM_MetaData_V1.txt
+
+2. read DCM_HCM_Expression_Matrix_raw_counts_V1.mtx and save it as a .npz file
+- python save.py

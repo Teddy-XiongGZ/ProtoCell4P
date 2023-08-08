@@ -26,15 +26,12 @@ This repo contains the source code for our [manuscript](https://doi.org/10.1093/
 If you find our research useful, please consider citing:
 
 ```
-@article{10.1093/bioinformatics/btad493,
-    author = {Xiong, Guangzhi and Bekiranov, Stefan and Zhang, Aidong},
-    title = "{ProtoCell4P: An Explainable Prototype-based Neural Network for Patient Classification Using Single-cell RNA-seq}",
-    journal = {Bioinformatics},
-    pages = {btad493},
-    year = {2023},
-    month = {08},
-    issn = {1367-4811},
-    doi = {10.1093/bioinformatics/btad493},
-    url = {https://doi.org/10.1093/bioinformatics/btad493},
+@article{xiong2023protocell4p,
+  title={ProtoCell4P: An Explainable Prototype-based Neural Network for Patient Classification Using Single-cell RNA-seq},
+  author={Xiong, Guangzhi and Bekiranov, Stefan and Zhang, Aidong},
+  journal={Bioinformatics},
+  pages={btad493},
+  year={2023},
+  publisher={Oxford University Press}
 }
 ```

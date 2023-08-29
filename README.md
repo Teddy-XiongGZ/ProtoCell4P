@@ -27,9 +27,11 @@ If you find our research useful, please consider citing:
 
 ```
 @article{xiong2023protocell4p,
-  title={ProtoCell4P: An Explainable Prototype-based Neural Network for Patient Classification Using Single-cell RNA-seq},
+  title={ProtoCell4P: an explainable prototype-based neural network for patient classification using single-cell RNA-seq},
   author={Xiong, Guangzhi and Bekiranov, Stefan and Zhang, Aidong},
   journal={Bioinformatics},
+  volume={39},
+  number={8},
   pages={btad493},
   year={2023},
   publisher={Oxford University Press}
